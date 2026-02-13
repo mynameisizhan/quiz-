@@ -1,0 +1,4226 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is not an abiotic component of an ecosystem?",
+    "options": {
+      "A": "Bacteria",
+      "B": "Soil",
+      "C": "Temperature",
+      "D": "Water"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 2,
+    "question": "In the 10% law of energy flow, if plants capture 10,000 kcal of energy, how much will be available to herbivores?",
+    "options": {
+      "A": "1,000 kcal",
+      "B": "5,000 kcal",
+      "C": "10 kcal",
+      "D": "1000 kcal"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Which organization monitors environmental issues globally?",
+    "options": {
+      "A": "UNESCO",
+      "B": "UNEP",
+      "C": "WHO",
+      "D": "UNICEF"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Which term refers to the variety of life on Earth?",
+    "options": {
+      "A": "Habitat",
+      "B": "Biodiversity",
+      "C": "Conservation",
+      "D": "Ecology"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "question": "What does the 3Rs principle stand for?",
+    "options": {
+      "A": "Reduce, Reuse, Recycle",
+      "B": "Rebuild, Reuse, Reboot",
+      "C": "Reduce, Recycle, Recover",
+      "D": "Recycle, Reuse, Repeat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "question": "The Environment (Protection) Act was enacted in which year?",
+    "options": {
+      "A": "1986",
+      "B": "1992",
+      "C": "1972",
+      "D": "2000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 7,
+    "question": "World Environment Day is celebrated on:",
+    "options": {
+      "A": "2021-03-01 00:00:00",
+      "B": "2022-04-01 00:00:00",
+      "C": "December 1",
+      "D": "June 5"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 8,
+    "question": "The Environment (Protection) Act was enacted after which global event?",
+    "options": {
+      "A": "Kyoto Protocol",
+      "B": "Bhopal Gas Tragedy",
+      "C": "Rio Earth Summit",
+      "D": "Stockholm Conference"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 9,
+    "question": "The most common indicator of water pollution is:",
+    "options": {
+      "A": "pH",
+      "B": "Dissolved Oxygen",
+      "C": "Salinity",
+      "D": "Conductivity"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Which parameter indicates the amount of oxygen required by microorganisms to decompose organic matter?",
+    "options": {
+      "A": "BOD",
+      "B": "COD",
+      "C": "TOC",
+      "D": "DO"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 11,
+    "question": "COD in water represents:",
+    "options": {
+      "A": "Oxygen used by microorganisms",
+      "B": "Oxygen consumed by fish",
+      "C": "Oxygen dissolved in water",
+      "D": "Oxygen required to oxidize organic & inorganic matter chemically"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 12,
+    "question": "Which type of waste increases BOD levels in water?",
+    "options": {
+      "A": "Plastic waste",
+      "B": "Heavy metals",
+      "C": "Salts",
+      "D": "Organic waste"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a biotic component of an ecosystem?",
+    "options": {
+      "A": "Temperature",
+      "B": "Light",
+      "C": "Fungi",
+      "D": "Water"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 14,
+    "question": "High BOD in a river indicates:",
+    "options": {
+      "A": "Low organic load",
+      "B": "Good water quality",
+      "C": "High dissolved oxygen",
+      "D": "Heavy organic pollution"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 15,
+    "question": "Dissolved Oxygen (DO) is essential for:",
+    "options": {
+      "A": "Aquatic life survival",
+      "B": "Reducing hardness",
+      "C": "Maintaining pH",
+      "D": "Neutralizing toxins"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Typical BOD of clean drinking water is:",
+    "options": {
+      "A": "100 mg/L",
+      "B": "< 1 mg/L",
+      "C": "50 mg/L",
+      "D": "10 mg/L"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 17,
+    "question": "When sewage is discharged into water, DO levels:",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Remain constant",
+      "D": "Become zero immediately"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "question": "The presence of high COD compared to BOD indicates:",
+    "options": {
+      "A": "Absence of chemicals",
+      "B": "No pollution",
+      "C": "Only biodegradable waste",
+      "D": "Presence of toxic pollutants"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 19,
+    "question": "Major source of organic pollution in rivers is:",
+    "options": {
+      "A": "Domestic sewage",
+      "B": "Mining",
+      "C": "Industrial salts",
+      "D": "Thermal pollution"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "question": "In a polluted river, DO levels are usually:",
+    "options": {
+      "A": "> 20 mg/L",
+      "B": "8–10 mg/L",
+      "C": "< 4 mg/L",
+      "D": "12–15 mg/L"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Eutrophication of lakes is mainly due to:",
+    "options": {
+      "A": "Low COD",
+      "B": "High DO",
+      "C": "Excess nutrients (N, P)",
+      "D": "Neutral pH"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 22,
+    "question": "Which unit is used to express BOD and COD?",
+    "options": {
+      "A": "%",
+      "B": "ppm",
+      "C": "g/L",
+      "D": "mg/L"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 23,
+    "question": "DO in water is replenished mainly by:",
+    "options": {
+      "A": "Decomposition",
+      "B": "Sedimentation",
+      "C": "Photosynthesis & Atmospheric diffusion",
+      "D": "Oxidation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "question": "The primary source of energy driving ecological cycles is:",
+    "options": {
+      "A": "Water cycle",
+      "B": "Soil minerals",
+      "C": "Solar radiation",
+      "D": "Wind"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 25,
+    "question": "The self-purification of rivers is due to:",
+    "options": {
+      "A": "Acidification",
+      "B": "Re-aeration & microbial degradation",
+      "C": "COD increase",
+      "D": "Evaporation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 26,
+    "question": "Which is more rapid as a test for pollution?",
+    "options": {
+      "A": "DO test",
+      "B": "pH test",
+      "C": "BOD test",
+      "D": "COD test"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 27,
+    "question": "If BOD = 300 mg/L in wastewater, the water quality is:",
+    "options": {
+      "A": "Moderately polluted",
+      "B": "Potable",
+      "C": "Highly polluted",
+      "D": "Clean"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 28,
+    "question": "The most important parameter for measuring organic pollution load is:",
+    "options": {
+      "A": "BOD",
+      "B": "Hardness",
+      "C": "Turbidity",
+      "D": "Alkalinity"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 29,
+    "question": "The major pollutant responsible for acid rain is:",
+    "options": {
+      "A": "CO₂",
+      "B": "O₃",
+      "C": "SO₂",
+      "D": "CH₄"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 30,
+    "question": "Photochemical smog is mainly caused by:",
+    "options": {
+      "A": "CO and CO₂",
+      "B": "O₂ and N₂",
+      "C": "CO₂ and SO₂",
+      "D": "NOx and hydrocarbons"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 31,
+    "question": "The Air Quality Index (AQI) indicates:",
+    "options": {
+      "A": "Level of air pollution affecting health",
+      "B": "Temperature variation",
+      "C": "Rainfall prediction",
+      "D": "Wind speed"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 32,
+    "question": "The most harmful type of particulate matter for human lungs is:",
+    "options": {
+      "A": "Dust particles > 100 µm",
+      "B": "PM2.5",
+      "C": "PM10",
+      "D": "PM100"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "question": "The disease “Black lung disease” is associated with:",
+    "options": {
+      "A": "Tobacco smoke",
+      "B": "Lead poisoning",
+      "C": "Asbestos",
+      "D": "Coal miners (particulates)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 34,
+    "question": "Ozone in the stratosphere is:",
+    "options": {
+      "A": "Harmful, greenhouse gas",
+      "B": "Beneficial, absorbs UV rays",
+      "C": "A heavy metal",
+      "D": "Cause of smog"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "question": "The second law of thermodynamics explains why:",
+    "options": {
+      "A": "Energy transfer between trophic levels is inefficient",
+      "B": "Decomposers cannot recycle minerals",
+      "C": "Nutrients are lost in food chains",
+      "D": "Energy can be recycled in ecosystems"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 36,
+    "question": "Ozone in the troposphere is:",
+    "options": {
+      "A": "Not significant",
+      "B": "Harmful air pollutant",
+      "C": "Neutral gas",
+      "D": "Protective layer"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Carbon monoxide pollution mainly affects:",
+    "options": {
+      "A": "Oxygen transport in blood",
+      "B": "Vision",
+      "C": "Nervous system",
+      "D": "Bones"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 38,
+    "question": "The main pollutant from automobiles is:",
+    "options": {
+      "A": "Carbon monoxide",
+      "B": "CFCs",
+      "C": "Sulphur dioxide",
+      "D": "Methane"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 39,
+    "question": "Which gas causes respiratory irritation and bronchitis?",
+    "options": {
+      "A": "CO₂",
+      "B": "H₂",
+      "C": "CH₄",
+      "D": "SO₂"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a greenhouse gas?",
+    "options": {
+      "A": "N₂",
+      "B": "Ar",
+      "C": "CO₂",
+      "D": "O₂"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 41,
+    "question": "The Bhopal gas tragedy (1984) was caused by leakage of:",
+    "options": {
+      "A": "Methyl isocyanate (MIC)",
+      "B": "Chlorine",
+      "C": "Ammonia",
+      "D": "SO₂"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 42,
+    "question": "Lead pollution in air mainly comes from:",
+    "options": {
+      "A": "Nuclear plants",
+      "B": "Soil erosion",
+      "C": "Old vehicle exhaust (leaded petrol)",
+      "D": "Forest fires"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 43,
+    "question": "The colorless, odorless, toxic gas that binds to hemoglobin is:",
+    "options": {
+      "A": "Methane",
+      "B": "Nitrous oxide",
+      "C": "Carbon monoxide",
+      "D": "Sulphur dioxide"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 44,
+    "question": "AQI value above 400 indicates:",
+    "options": {
+      "A": "Moderate air quality",
+      "B": "Satisfactory",
+      "C": "Good air quality",
+      "D": "Severe pollution"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 45,
+    "question": "Which pollutant damages the nervous system, especially in children?",
+    "options": {
+      "A": "CO₂",
+      "B": "Lead",
+      "C": "SO₂",
+      "D": "O₃"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 46,
+    "question": "Which ecosystem has the highest net primary productivity per unit area?",
+    "options": {
+      "A": "Tropical rainforest",
+      "B": "Coral reefs",
+      "C": "Desert scrub",
+      "D": "Open ocean"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 47,
+    "question": "The major cause of soil pollution is:",
+    "options": {
+      "A": "Excessive use of chemicals (pesticides, fertilizers)",
+      "B": "Waterlogging",
+      "C": "Wind erosion",
+      "D": "Soil organisms"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 48,
+    "question": "Soil pollution by heavy metals mainly comes from:",
+    "options": {
+      "A": "Biomass burning",
+      "B": "Oxygen depletion",
+      "C": "Industrial effluents",
+      "D": "Acid rain"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 49,
+    "question": "Excess nitrate in soil leads to:",
+    "options": {
+      "A": "Soil erosion",
+      "B": "Groundwater pollution",
+      "C": "Acid rain",
+      "D": "Ozone depletion"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is not a biodegradable solid waste?",
+    "options": {
+      "A": "Paper",
+      "B": "Food waste",
+      "C": "Wood",
+      "D": "Plastic"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 51,
+    "question": "Municipal solid waste (MSW) in India is largely composed of:",
+    "options": {
+      "A": "Plastic",
+      "B": "Glass",
+      "C": "Organic matter",
+      "D": "Metal"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 52,
+    "question": "The process of controlled burning of solid waste at high temperatures is:",
+    "options": {
+      "A": "Landfilling",
+      "B": "Vermiculture",
+      "C": "Incineration",
+      "D": "Composting"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 53,
+    "question": "The process of converting organic waste into manure is:",
+    "options": {
+      "A": "Gasification",
+      "B": "Incineration",
+      "C": "Recycling",
+      "D": "Composting"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 54,
+    "question": "Sanitary landfills are used for:",
+    "options": {
+      "A": "Mining",
+      "B": "Irrigation",
+      "C": "Safe disposal of solid waste",
+      "D": "Soil erosion control"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 55,
+    "question": "Biomedical waste should be disposed of by:",
+    "options": {
+      "A": "Landfilling",
+      "B": "Composting",
+      "C": "Incineration",
+      "D": "Open dumping"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 56,
+    "question": "Which is considered hazardous waste?",
+    "options": {
+      "A": "Paper waste",
+      "B": "Yard waste",
+      "C": "E-waste",
+      "D": "Food waste"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 57,
+    "question": "The pyramids of number in a grassland ecosystem is usually:",
+    "options": {
+      "A": "Irregular",
+      "B": "Upright",
+      "C": "Spindle-shaped",
+      "D": "Inverted"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 58,
+    "question": "E-waste mainly contains:",
+    "options": {
+      "A": "Harmless salts",
+      "B": "Pure biodegradable compounds",
+      "C": "Toxic heavy metals and plastics",
+      "D": "Only organic matter"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 59,
+    "question": "Which metal is most common in e-waste?",
+    "options": {
+      "A": "Sodium",
+      "B": "Lead",
+      "C": "Calcium",
+      "D": "Potassium"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "question": "Mercury pollution in soil is commonly associated with:",
+    "options": {
+      "A": "Forest fires",
+      "B": "Agriculture",
+      "C": "Electronic waste",
+      "D": "Textile industry"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 61,
+    "question": "The best method of managing biodegradable solid waste is:",
+    "options": {
+      "A": "Composting",
+      "B": "Open dumping",
+      "C": "Burning",
+      "D": "Deep burial"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 62,
+    "question": "Which electronic device contributes the maximum to e-waste in India?",
+    "options": {
+      "A": "Printers",
+      "B": "Air conditioners",
+      "C": "Refrigerators",
+      "D": "Mobile phones & computers"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 63,
+    "question": "Which method is most eco-friendly for solid waste management?",
+    "options": {
+      "A": "Landfilling",
+      "B": "Reduce, Reuse, Recycle (3Rs)",
+      "C": "Incineration",
+      "D": "Open dumping"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 64,
+    "question": "The term \"environment\" refers to:",
+    "options": {
+      "A": "CLIMATE ALONE",
+      "B": "ONLY PLANTS AND ANIMALS",
+      "C": "THE PHYSICAL AND BIOLOGICAL SURROUNDINGS OF ALL LIVING ORGANISMS",
+      "D": "ONLY AIR AND WATER"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is not included in the scope of environment?",
+    "options": {
+      "A": "NATURAL RESOURCES",
+      "B": "CULTURAL HERITAGE",
+      "C": "POLLUTION CONTROL",
+      "D": "MOBILE PHONE MODELS"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 66,
+    "question": "Which of the following best explains the scope of environmental studies?",
+    "options": {
+      "A": "STUDY OF ALL INTERACTIONS BETWEEN LIVING AND NON-LIVING COMPONENTS",
+      "B": "STUDY OF SOIL ONLY",
+      "C": "STUDY OF FORESTS ONLY",
+      "D": "STUDY OF CHEMISTRY ONLY"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 67,
+    "question": "The scope of environment includes the study of:",
+    "options": {
+      "A": "ONLY HUMAN ACTIVITIES",
+      "B": "AIR, WATER, SOIL, AND LIVING ORGANISMS",
+      "C": "ONLY NATURAL DISASTERS",
+      "D": "ONLY WILDLIFE"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 68,
+    "question": "Which one of the following statements is false?",
+    "options": {
+      "A": "Matter cycles within an ecosystem",
+      "B": "Decomposers are absent in aquatic ecosystems",
+      "C": "Herbivores are primary consumers",
+      "D": "Energy flow in an ecosystem is unidirectional"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 69,
+    "question": "Which statement is correct about the definition of environment?",
+    "options": {
+      "A": "ENVIRONMENT INCLUDES ONLY SOCIAL CONDITIONS",
+      "B": "ENVIRONMENT IS THE SUM TOTAL OF EXTERNAL FACTORS INFLUENCING AN ORGANISM",
+      "C": "ENVIRONMENT IS UNRELATED TO HUMAN ACTIVITIES",
+      "D": "ENVIRONMENT MEANS ONLY PHYSICAL FACTORS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 70,
+    "question": "The interdisciplinary nature of environmental studies means it connects with:",
+    "options": {
+      "A": "ONLY BIOLOGY",
+      "B": "NATURAL SCIENCES, SOCIAL SCIENCES, AND ENGINEERING",
+      "C": "ONLY ECONOMICS",
+      "D": "ONLY GEOGRAPHY"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 71,
+    "question": "Scope of environmental studies does not include:",
+    "options": {
+      "A": "ENVIRONMENTAL POLLUTION CONTROL",
+      "B": "SUSTAINABLE DEVELOPMENT",
+      "C": "TECHNOLOGICAL PROGRESS UNRELATED TO ECOLOGY",
+      "D": "CONSERVATION OF NATURAL RESOURCES"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 72,
+    "question": "Which of the following describes the man-environment relationship?",
+    "options": {
+      "A": "HUMAN SURVIVAL AND DEVELOPMENT DEPEND ON ENVIRONMENT",
+      "B": "HUMANS ARE SEPARATE FROM THE ENVIRONMENT",
+      "C": "ENVIRONMENT HAS NO IMPACT ON HUMANS",
+      "D": "TECHNOLOGY HAS ELIMINATED HUMAN DEPENDENCE ON ENVIRONMENT"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 73,
+    "question": "Which of the following is the ultimate aim of environmental studies?",
+    "options": {
+      "A": "ENVIRONMENTAL PROTECTION AND SUSTAINABLE DEVELOPMENT",
+      "B": "INDUSTRIAL GROWTH",
+      "C": "URBANIZATION",
+      "D": "ECONOMIC COMPETITION"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 74,
+    "question": "Why is the environment important for human survival?",
+    "options": {
+      "A": "PROVIDES ENTERTAINMENT",
+      "B": "SUPPLIES NATURAL RESOURCES LIKE AIR, WATER, AND FOOD",
+      "C": "REDUCES POPULATION",
+      "D": "ONLY FOR TOURISM"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is a direct benefit of a healthy environment?",
+    "options": {
+      "A": "GLOBAL WARMING",
+      "B": "INCREASED DISEASES",
+      "C": "HABITAT DESTRUCTION",
+      "D": "BALANCED ECOSYSTEM"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 76,
+    "question": "Forests are called the “lungs of the Earth” because they:",
+    "options": {
+      "A": "ATTRACT RAINFALL ONLY",
+      "B": "ABSORB CARBON DIOXIDE AND RELEASE OXYGEN",
+      "C": "PRODUCE FOOD FOR ALL ANIMALS",
+      "D": "PROVIDE TIMBER ALONE"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 77,
+    "question": "Why is biodiversity important?",
+    "options": {
+      "A": "IT CAUSES CLIMATE CHANGE",
+      "B": "IT DECREASES FOOD SUPPLY",
+      "C": "IT INCREASES POLLUTION",
+      "D": "IT MAINTAINS ECOLOGICAL BALANCE"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 78,
+    "question": "Which of the following is an example of an ecosystem service?",
+    "options": {
+      "A": "OZONE DEPLETION",
+      "B": "GLOBAL WARMING",
+      "C": "SOIL EROSION",
+      "D": "FRESHWATER SUPPLY"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 79,
+    "question": "A self-sustaining natural ecosystem is:",
+    "options": {
+      "A": "Garden",
+      "B": "Aquarium",
+      "C": "Pond",
+      "D": "Agricultural field"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 80,
+    "question": "How does a clean environment contribute to human health?",
+    "options": {
+      "A": "CAUSES RESPIRATORY PROBLEMS",
+      "B": "INCREASES POLLUTION",
+      "C": "INCREASES STRESS",
+      "D": "REDUCES SPREAD OF DISEASES"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 81,
+    "question": "Why should we conserve the environment for future generations?",
+    "options": {
+      "A": "TO REDUCE OXYGEN LEVELS",
+      "B": "TO PRESERVE RESOURCES AND BIODIVERSITY",
+      "C": "TO INCREASE DEFORESTATION",
+      "D": "TO CAUSE MORE URBANIZATION"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 82,
+    "question": "Which of the following best describes the importance of public awareness in environmental protection?",
+    "options": {
+      "A": "PROMOTES INDUSTRIAL WASTE DUMPING",
+      "B": "HELPS PEOPLE IGNORE POLLUTION",
+      "C": "ENCOURAGES SUSTAINABLE PRACTICES",
+      "D": "SUPPORTS OVEREXPLOITATION OF RESOURCES"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 83,
+    "question": "How does climate change prove the importance of environmental protection?",
+    "options": {
+      "A": "IT SHOWS RESOURCES ARE UNLIMITED",
+      "B": "IT REDUCES GLOBAL TEMPERATURES",
+      "C": "IT IMPROVES SOIL FERTILITY",
+      "D": "IT HIGHLIGHTS THE CONSEQUENCES OF IGNORING NATURE"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 84,
+    "question": "Which natural resource is essential for all living organisms and must be conserved?",
+    "options": {
+      "A": "PETROLEUM",
+      "B": "GOLD",
+      "C": "PLASTIC",
+      "D": "WATER"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 85,
+    "question": "The need for public awareness in environment and biodiversity is emphasized in:",
+    "options": {
+      "A": "INDUSTRIAL REVOLUTION POLICIES",
+      "B": "NONE OF THESE",
+      "C": "AGENDA 21 OF THE EARTH SUMMIT (1992)",
+      "D": "WORLD WAR II AGREEMENTS"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is not a reason for creating public awareness about the environment?",
+    "options": {
+      "A": "TO PROMOTE DEFORESTATION FOR ECONOMIC GROWTH",
+      "B": "TO CONSERVE BIODIVERSITY",
+      "C": "TO ACHIEVE SUSTAINABLE DEVELOPMENT",
+      "D": "TO MINIMIZE POLLUTION"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 87,
+    "question": "Public awareness about biodiversity is important mainly to:",
+    "options": {
+      "A": "PROTECT ENDANGERED SPECIES",
+      "B": "ENCOURAGE INDUSTRIAL POLLUTION",
+      "C": "INCREASE HUNTING OF WILDLIFE",
+      "D": "DECREASE RENEWABLE ENERGY USE"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 88,
+    "question": "Lack of public awareness about environmental issues may lead to:",
+    "options": {
+      "A": "ENVIRONMENTAL DEGRADATION",
+      "B": "PROTECTION OF WILDLIFE",
+      "C": "IMPROVED BIODIVERSITY",
+      "D": "INCREASED SUSTAINABILITY"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 89,
+    "question": "Public awareness is crucial for biodiversity conservation because:",
+    "options": {
+      "A": "PEOPLE’S PARTICIPATION ENSURES BETTER IMPLEMENTATION OF LAWS",
+      "B": "ONLY SCIENTISTS SHOULD WORK ON CONSERVATION",
+      "C": "GOVERNMENT POLICIES ALONE ARE SUFFICIENT",
+      "D": "TECHNOLOGY ELIMINATES THE NEED FOR PUBLIC PARTICIPATION"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Which process in the ecosystem directly connects biotic and abiotic components?",
+    "options": {
+      "A": "Parasitism",
+      "B": "Predation",
+      "C": "Photosynthesis",
+      "D": "Competition"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 91,
+    "question": "The slogan “Think globally, act locally” is associated with:",
+    "options": {
+      "A": "PUBLIC AWARENESS IN ENVIRONMENTAL PROTECTION",
+      "B": "GLOBAL WARMING AWARENESS",
+      "C": "SPACE RESEARCH",
+      "D": "ECONOMIC DEVELOPMENT"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is a direct outcome of public awareness in environment?",
+    "options": {
+      "A": "OVEREXPLOITATION OF RESOURCES",
+      "B": "DEVELOPMENT OF ECO-FRIENDLY PRACTICES",
+      "C": "DECREASE IN RECYCLING EFFORTS",
+      "D": "INCREASE IN INDUSTRIAL POLLUTION"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 93,
+    "question": "The main function of decomposers in an ecosystem is:",
+    "options": {
+      "A": "RECYCLE NUTRIENTS",
+      "B": "CONSUME HERBIVORES",
+      "C": "ABSORB SOLAR ENERGY",
+      "D": "MANUFACTURE FOOD"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 94,
+    "question": "Nutrients like nitrogen and phosphorus:",
+    "options": {
+      "A": "DO NOT PASS THROUGH CONSUMERS",
+      "B": "FLOW ONLY ONCE",
+      "C": "ARE LOST AS HEAT",
+      "D": "ARE RECYCLED IN ECOSYSTEMS"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 95,
+    "question": "Ecological succession refers to:",
+    "options": {
+      "A": "SUDDEN CHANGE IN ECOSYSTEM",
+      "B": "FOOD CHAIN INTERACTION",
+      "C": "GRADUAL REPLACEMENT OF SPECIES OVER TIME",
+      "D": "SEASONAL MIGRATION OF ANIMALS"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 96,
+    "question": "The facilitation hypothesis of succession means:",
+    "options": {
+      "A": "SPECIES RESIST COMPETITORS",
+      "B": "LONGER-LIVED SPECIES DOMINATE DIRECTLY",
+      "C": "EARLY SPECIES MAKE ENVIRONMENT SUITABLE FOR LATER ONES",
+      "D": "LATER SPECIES TOLERATE FEWER RESOURCES"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 97,
+    "question": "Succession after forest fire is an example of:",
+    "options": {
+      "A": "RETROGRESSIVE SUCCESSION",
+      "B": "PRIMARY SUCCESSION",
+      "C": "SECONDARY SUCCESSION",
+      "D": "INHIBITION"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 98,
+    "question": "The forest floor mainly consists of:",
+    "options": {
+      "A": "DOMINANT TREES",
+      "B": "MOSSES AND FERNS ONLY",
+      "C": "SHRUBS AND SEEDLINGS",
+      "D": "LITTER, HUMUS, DECOMPOSING MATERIAL"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 99,
+    "question": "Which type of forest is called the “rainforest”?",
+    "options": {
+      "A": "EQUATORIAL EVERGREEN FOREST",
+      "B": "MANGROVE FOREST",
+      "C": "TEMPERATE DECIDUOUS FOREST",
+      "D": "CONIFEROUS FOREST"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 100,
+    "question": "Grasslands cover about:",
+    "options": {
+      "A": "50% OF BIOMASS",
+      "B": "32% OF PLANT COVER",
+      "C": "10% OF EARTH’S SURFACE",
+      "D": "70% OF ECOSYSTEMS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 101,
+    "question": "Which ecological pyramid can never be inverted?",
+    "options": {
+      "A": "Pyramid of number",
+      "B": "All pyramids",
+      "C": "Pyramid of energy",
+      "D": "Pyramid of biomass"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 102,
+    "question": "The most fertile soils are found in:",
+    "options": {
+      "A": "GRASSLANDS",
+      "B": "DESERTS",
+      "C": "TUNDRA",
+      "D": "FORESTS"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 103,
+    "question": "The most famous desert plant is:",
+    "options": {
+      "A": "CACTUS",
+      "B": "MANGO",
+      "C": "NEEM",
+      "D": "BANYAN"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "question": "Decomposers are few in deserts because:",
+    "options": {
+      "A": "HIGH RAINFALL",
+      "B": "POOR ORGANIC MATTER AND VEGETATION",
+      "C": "PRESENCE OF REPTILES",
+      "D": "LACK OF CONSUMERS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "question": "The primary producers in aquatic ecosystems are:",
+    "options": {
+      "A": "CRUSTACEANS",
+      "B": "PHYTOPLANKTON",
+      "C": "FISH",
+      "D": "ZOOPLANKTON"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 106,
+    "question": "The warm upper layer of a lake is called:",
+    "options": {
+      "A": "THERMOCLINE",
+      "B": "HYPOLIMNION",
+      "C": "EPILIMNION",
+      "D": "METALIMNION"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 107,
+    "question": "The factor that has the major influence on aquatic ecosystems is:",
+    "options": {
+      "A": "SOIL TYPE",
+      "B": "LIGHT AND TEMPERATURE",
+      "C": "CANOPY GAPS",
+      "D": "FOREST COVER"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 108,
+    "question": "Approximately how many species have been recorded in the world?",
+    "options": {
+      "A": "15 LAKH",
+      "B": "15 MILLION",
+      "C": "1.5 MILLION",
+      "D": "1.5 LAKH"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 109,
+    "question": "Genetic diversity refers to:",
+    "options": {
+      "A": "DIFFERENCES IN ECOSYSTEMS IN A REGION",
+      "B": "VARIATIONS OF GENES WITHIN A SPECIES OR POPULATION",
+      "C": "DISTRIBUTION OF ORGANISMS ON EARTH",
+      "D": "VARIETY OF SPECIES IN A GIVEN AREA"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 110,
+    "question": "Species diversity means:",
+    "options": {
+      "A": "DIFFERENCES IN ECOSYSTEMS ACROSS CONTINENTS",
+      "B": "VARIETY AND ABUNDANCE OF SPECIES IN A REGION",
+      "C": "NUMBER OF HABITATS IN A GIVEN ECOSYSTEM",
+      "D": "VARIATIONS IN GENETIC MAKEUP OF ORGANISMS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 111,
+    "question": "Ecosystem diversity deals with:",
+    "options": {
+      "A": "GENETIC DIFFERENCES WITHIN A SPECIES",
+      "B": "DIVERSITY OF HABITATS, BIOTIC COMMUNITIES, AND ECOLOGICAL PROCESSES",
+      "C": "VARIETY OF LIFE FORMS AT MOLECULAR LEVEL",
+      "D": "INTERBREEDING BETWEEN RELATED SPECIES"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 112,
+    "question": "In a forest ecosystem, primary consumers are:",
+    "options": {
+      "A": "Decomposers",
+      "B": "Omnivores",
+      "C": "Herbivores",
+      "D": "Carnivores"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 113,
+    "question": "The most stable ecosystem is:",
+    "options": {
+      "A": "Forest",
+      "B": "Desert",
+      "C": "Ocean",
+      "D": "Grassland"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 114,
+    "question": "Which of the following shows genetic diversity?",
+    "options": {
+      "A": "ALL SPECIES OF BIRDS",
+      "B": "NUMBER OF SPECIES IN A CORAL REEF",
+      "C": "DIFFERENT BREEDS OF DOGS",
+      "D": "FORESTS, GRASSLANDS, DESERTS"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 115,
+    "question": "Which is the correct order of levels of biodiversity (from smallest to largest)?",
+    "options": {
+      "A": "GENETIC → ECOSYSTEM → SPECIES",
+      "B": "SPECIES → GENETIC → ECOSYSTEM",
+      "C": "ECOSYSTEM → SPECIES → GENETIC",
+      "D": "GENETIC → SPECIES → ECOSYSTEM"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 116,
+    "question": "Example of species diversity is:",
+    "options": {
+      "A": "TWO VARIETIES OF MANGO",
+      "B": "DIFFERENT BREEDS OF CATTLE",
+      "C": "WHEAT, RICE, MAIZE",
+      "D": "DESERT, RAINFOREST, MANGROVES"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 117,
+    "question": "Which of the following is the broadest level of biodiversity?",
+    "options": {
+      "A": "ECOSYSTEM",
+      "B": "GENETIC",
+      "C": "POPULATION",
+      "D": "SPECIES"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 118,
+    "question": "Biodiversity hotspot refers to:",
+    "options": {
+      "A": "PLACE WITH ONLY GENETIC VARIATIONS",
+      "B": "REGION WITH LOW NUMBER OF SPECIES",
+      "C": "REGION WITH HIGH SPECIES RICHNESS AND ENDEMISM",
+      "D": "AREA WITH ONLY ENDANGERED SPECIES"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following is NOT an example of ecosystem diversity?",
+    "options": {
+      "A": "TROPICAL RAINFORESTS",
+      "B": "VARIETIES OF WHEAT",
+      "C": "ALPINE MEADOWS",
+      "D": "CORAL REEFS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 120,
+    "question": "Which type of biodiversity provides adaptability to changing environments?",
+    "options": {
+      "A": "GENETIC DIVERSITY",
+      "B": "ECOSYSTEM DIVERSITY",
+      "C": "NONE OF THESE",
+      "D": "SPECIES DIVERSITY"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 121,
+    "question": "Genes are defined as:",
+    "options": {
+      "A": "PROTEINS THAT CONTROL METABOLISM",
+      "B": "CHEMICAL MESSENGERS IN BLOOD",
+      "C": "FUNDAMENTAL UNITS OF HEREDITY MADE UP OF DNA",
+      "D": "UNITS OF CHROMOSOMES THAT CONTROL REPRODUCTION"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 122,
+    "question": "Genes carry instructions that determine:",
+    "options": {
+      "A": "ENVIRONMENTAL CHANGES",
+      "B": "ONLY BODY WEIGHT",
+      "C": "TRAITS LIKE EYE COLOR, HEIGHT, AND SURVIVAL",
+      "D": "ONLY REPRODUCTION"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 123,
+    "question": "Genetic variation within a species is important because:",
+    "options": {
+      "A": "IT INCREASES THE RISK OF EXTINCTION",
+      "B": "IT REDUCES ADAPTABILITY",
+      "C": "IT PREVENTS REPRODUCTION",
+      "D": "IT ALLOWS POPULATIONS TO EVOLVE UNDER CHANGING CONDITIONS"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 124,
+    "question": "Which of the following represents the correct sequence of energy flow?",
+    "options": {
+      "A": "Sun → Producer → Secondary consumer → Primary consumer → Decomposer",
+      "B": "Sun → Producer → Primary consumer → Secondary consumer → Decomposer",
+      "C": "Sun → Primary consumer → Producer → Decomposer → Secondary consumer",
+      "D": "Producer → Sun → Primary consumer → Secondary consumer → Decomposer"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "question": "What happens to a population without genetic variation in the face of new environmental challenges?",
+    "options": {
+      "A": "IT THRIVES EASILY",
+      "B": "IT ADAPTS QUICKLY",
+      "C": "IT FACES INCREASED RISK OF EXTINCTION",
+      "D": "IT DEVELOPS MORE MUTATIONS AUTOMATICALLY"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 126,
+    "question": "If a population is exposed to a new disease, survival depends on:",
+    "options": {
+      "A": "RATE OF ENVIRONMENTAL POLLUTION",
+      "B": "EXISTENCE OF RESISTANCE GENES IN THE POPULATION",
+      "C": "SIZE OF THE POPULATION ONLY",
+      "D": "ISOLATION OF ALL INDIVIDUALS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 127,
+    "question": "Why are endangered species with low genetic variation more at risk of extinction?",
+    "options": {
+      "A": "THEY ARE RESISTANT TO MOST DISEASES",
+      "B": "THEY CANNOT EVOLVE IN RESPONSE TO ENVIRONMENTAL CHANGES",
+      "C": "THEY INTERBREED TOO FREQUENTLY",
+      "D": "THEY HAVE HIGHER MUTATION RATES"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 128,
+    "question": "Which species has high genetic variation according to the passage?",
+    "options": {
+      "A": "TIGERS",
+      "B": "INDIAN RHINOS",
+      "C": "ELEPHANTS",
+      "D": "CHEETAHS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 129,
+    "question": "Which species has low genetic variation according to the passage?",
+    "options": {
+      "A": "CHEETAHS",
+      "B": "INDIAN RHINOS",
+      "C": "ELEPHANTS",
+      "D": "LIONS"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 130,
+    "question": "Species living in small or isolated areas generally:",
+    "options": {
+      "A": "DEVELOP INTO DISTINCT LOCALIZED POPULATIONS",
+      "B": "SHOW HIGH GENE FLOW",
+      "C": "NEVER ADAPT TO THE ENVIRONMENT",
+      "D": "RETAIN UNIFORM TRAITS EVERYWHERE"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 131,
+    "question": "Species inhabiting large areas and interbreeding widely usually show:",
+    "options": {
+      "A": "HIGH RATE OF GENE FLOW AND FEW LOCALIZED CHARACTERISTICS",
+      "B": "LOW ADAPTABILITY TO ENVIRONMENTAL CHANGES",
+      "C": "INCREASED RISK OF EXTINCTION",
+      "D": "DISTINCT REGIONAL POPULATIONS"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 132,
+    "question": "Which of the following has been identified as the major cause of biodiversity loss?",
+    "options": {
+      "A": "GENETIC MUTATIONS",
+      "B": "EVOLUTION",
+      "C": "HUMAN ACTIVITIES",
+      "D": "NATURAL DISASTERS"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 133,
+    "question": "Which of the following is NOT an example of ecosystem diversity?",
+    "options": {
+      "A": "TROPICAL RAINFORESTS",
+      "B": "VARIETIES OF RICE",
+      "C": "GRASSLANDS",
+      "D": "WETLANDS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 134,
+    "question": "India accounts for what percentage of the world’s land area?",
+    "options": {
+      "A": "2.4%",
+      "B": "1.8%",
+      "C": "3.2%",
+      "D": "5%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 135,
+    "question": "Which term refers to the maximum energy available to a consumer population after respiration losses of producers?",
+    "options": {
+      "A": "Gross primary productivity (GPP)",
+      "B": "Biomass productivity",
+      "C": "Secondary productivity",
+      "D": "Net primary productivity (NPP)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 136,
+    "question": "India harbors approximately what percentage of the world’s recorded species?",
+    "options": {
+      "A": "10%",
+      "B": "5–6%",
+      "C": "7–8%",
+      "D": "3–4%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 137,
+    "question": "How many plant species are recorded in India?",
+    "options": {
+      "A": "47,000",
+      "B": "60,000",
+      "C": "35,000",
+      "D": "25,000"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 138,
+    "question": "How many species of plants in India are endemic?",
+    "options": {
+      "A": "10,000",
+      "B": "12,000",
+      "C": "8,000",
+      "D": "15,000"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 139,
+    "question": "How many animal species are recorded in India?",
+    "options": {
+      "A": "1,20,000",
+      "B": "1,00,000+",
+      "C": "80,000",
+      "D": "90,000"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 140,
+    "question": "India ranks ___ in the world for plant richness.",
+    "options": {
+      "A": "8TH",
+      "B": "12TH",
+      "C": "10TH",
+      "D": "5TH"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 141,
+    "question": "Which country has the second largest number of endemic species in the world?",
+    "options": {
+      "A": "AUSTRALIA",
+      "B": "INDONESIA",
+      "C": "BRAZIL",
+      "D": "INDIA"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 142,
+    "question": "Which of the following is not a type of ecosystem in India?",
+    "options": {
+      "A": "ALPINE ECOSYSTEMS",
+      "B": "DESERT ECOSYSTEMS",
+      "C": "TUNDRA ECOSYSTEMS",
+      "D": "TROPICAL RAINFORESTS"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 143,
+    "question": "The Thar Desert is an example of which type of ecosystem?",
+    "options": {
+      "A": "COASTAL",
+      "B": "DESERT",
+      "C": "GRASSLAND",
+      "D": "ALPINE"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 144,
+    "question": "Mangroves and coral reefs are examples of which ecosystem?",
+    "options": {
+      "A": "DESERT",
+      "B": "MARINE AND COASTAL",
+      "C": "GRASSLAND",
+      "D": "WETLAND"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 145,
+    "question": "The Western Ghats are famous for which type of ecosystem?",
+    "options": {
+      "A": "TUNDRA",
+      "B": "GRASSLAND",
+      "C": "TROPICAL RAINFOREST",
+      "D": "DESERT"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 146,
+    "question": "In ecological succession, the first species to colonize a barren area are called:",
+    "options": {
+      "A": "Climax community",
+      "B": "Pioneer species",
+      "C": "Keystone species",
+      "D": "Secondary species"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 147,
+    "question": "India is the center of origin for which of the following crops?",
+    "options": {
+      "A": "CORN, SOYBEAN, SUNFLOWER",
+      "B": "COFFEE, TEA, COCOA",
+      "C": "RICE, SUGARCANE, TURMERIC",
+      "D": "WHEAT, BARLEY, MAIZE"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 148,
+    "question": "Which biodiversity hotspot is not found in India?",
+    "options": {
+      "A": "INDO-MALAYAN",
+      "B": "HIMALAYA",
+      "C": "AMAZON BASIN",
+      "D": "INDO-BURMA"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 149,
+    "question": "The Andaman & Nicobar Islands belong to which biodiversity hotspot?",
+    "options": {
+      "A": "HIMALAYA",
+      "B": "INDO-BURMA",
+      "C": "INDO-MALAYAN",
+      "D": "WESTERN GHATS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 150,
+    "question": "The Sundarbans mangrove is located in which state?",
+    "options": {
+      "A": "GUJARAT",
+      "B": "KERALA",
+      "C": "ODISHA",
+      "D": "WEST BENGAL"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 151,
+    "question": "The Western Ghats hotspot extends over how many states mainly?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "4",
+      "D": "2"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 152,
+    "question": "Which Indian state has the highest forest cover?",
+    "options": {
+      "A": "ODISHA",
+      "B": "ARUNACHAL PRADESH",
+      "C": "CHHATTISGARH",
+      "D": "MADHYA PRADESH"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 153,
+    "question": "Which of the following is a major cause of biodiversity loss?",
+    "options": {
+      "A": "POLLINATION",
+      "B": "HABITAT LOSS",
+      "C": "PHOTOSYNTHESIS",
+      "D": "SEED DISPERSAL"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 154,
+    "question": "Poaching of wildlife refers to:",
+    "options": {
+      "A": "ANIMAL RESCUE",
+      "B": "ILLEGAL HUNTING",
+      "C": "LEGAL HUNTING",
+      "D": "BIRD MIGRATION"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 155,
+    "question": "Which of the following is an example of man-wildlife conflict?",
+    "options": {
+      "A": "POACHING",
+      "B": "DEFORESTATION",
+      "C": "AFFORESTATION",
+      "D": "CROP RAIDING BY ELEPHANTS"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 156,
+    "question": "Habitat fragmentation means:",
+    "options": {
+      "A": "INCREASE IN LARGE FORESTS",
+      "B": "DIVISION OF HABITATS INTO SMALLER PATCHES",
+      "C": "REGENERATION OF PLANTS",
+      "D": "CONNECTING TWO ECOSYSTEMS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 157,
+    "question": "The ecosystem where decomposers play the most significant role in recycling nutrients is:",
+    "options": {
+      "A": "Forest floor",
+      "B": "Open ocean",
+      "C": "Desert",
+      "D": "Tundra"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 158,
+    "question": "Which animal is often poached for its tusks?",
+    "options": {
+      "A": "RHINO",
+      "B": "ELEPHANT",
+      "C": "TIGER",
+      "D": "LEOPARD"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 159,
+    "question": "Which bird is hunted for its feathers?",
+    "options": {
+      "A": "PEACOCK",
+      "B": "SPARROW",
+      "C": "HORNBILL",
+      "D": "PIGEON"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 160,
+    "question": "Which wildlife species in India is highly threatened due to poaching for skin and bones?",
+    "options": {
+      "A": "TIGER",
+      "B": "LEOPARD",
+      "C": "LION",
+      "D": "PANTHER"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 161,
+    "question": "Which of the following is a major wetland ecosystem in India?",
+    "options": {
+      "A": "WESTERN GHATS",
+      "B": "CHILIKA LAKE",
+      "C": "THAR DESERT",
+      "D": "NILGIRIS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 162,
+    "question": "Which biodiversity hotspot covers North-East India?",
+    "options": {
+      "A": "DECCAN PLATEAU",
+      "B": "HIMALAYA",
+      "C": "SUNDARBANS",
+      "D": "INDO-BURMA"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 163,
+    "question": "Which biodiversity hotspot includes the entire Indian Himalayan region?",
+    "options": {
+      "A": "WESTERN GHATS",
+      "B": "INDO-BURMA",
+      "C": "HIMALAYA",
+      "D": "INDO-MALAYAN"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 164,
+    "question": "Which species is endemic to India?",
+    "options": {
+      "A": "POLAR BEAR",
+      "B": "PANDA",
+      "C": "KANGAROO",
+      "D": "ASIATIC LION"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 165,
+    "question": "Which ecosystem is associated with coral reefs?",
+    "options": {
+      "A": "FRESHWATER",
+      "B": "DESERT",
+      "C": "MARINE",
+      "D": "ALPINE"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 166,
+    "question": "Which region is known as the “Lung of India” due to dense forest cover?",
+    "options": {
+      "A": "HIMALAYAS",
+      "B": "NORTH-EAST INDIA",
+      "C": "SUNDARBANS",
+      "D": "WESTERN GHATS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 167,
+    "question": "In which year did the Convention on Biological Diversity come into force?",
+    "options": {
+      "A": "2000",
+      "B": "1992",
+      "C": "1980",
+      "D": "1995"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 168,
+    "question": "Which factor limits energy flow efficiency between trophic levels?",
+    "options": {
+      "A": "Nutrient cycling",
+      "B": "Heat loss through respiration",
+      "C": "Herbivore population size",
+      "D": "Abundance of producers"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 169,
+    "question": "Biosphere reserves are established for:",
+    "options": {
+      "A": "MINING",
+      "B": "CONSERVATION OF BIODIVERSITY",
+      "C": "AGRICULTURE",
+      "D": "URBANIZATION"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 170,
+    "question": "Which of the following is a biosphere reserve in India?",
+    "options": {
+      "A": "PERIYAR",
+      "B": "GIR",
+      "C": "RANTHAMBORE",
+      "D": "NILGIRI"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 171,
+    "question": "Which biodiversity hotspot is home to one of the richest coral reef systems in India?",
+    "options": {
+      "A": "HIMALAYA",
+      "B": "GULF OF MANNAR",
+      "C": "INDO-BURMA",
+      "D": "WESTERN GHATS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 172,
+    "question": "Which state is known as the “Land of the Rhino”?",
+    "options": {
+      "A": "ASSAM",
+      "B": "MADHYA PRADESH",
+      "C": "GUJARAT",
+      "D": "KERALA"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 173,
+    "question": "Which animal is often killed due to human-tiger conflict?",
+    "options": {
+      "A": "GOAT",
+      "B": "ELEPHANT",
+      "C": "DEER",
+      "D": "CATTLE"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 174,
+    "question": "The Great Indian Bustard is threatened mainly due to:",
+    "options": {
+      "A": "HABITAT LOSS",
+      "B": "POACHING",
+      "C": "OVERGRAZING",
+      "D": "POLLUTION"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 175,
+    "question": "Which is the largest mangrove forest in India?",
+    "options": {
+      "A": "BHITARKANIKA",
+      "B": "VEDARANYAM",
+      "C": "PICHAVARAM",
+      "D": "SUNDARBANS"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 176,
+    "question": "Which is a major threat to marine biodiversity?",
+    "options": {
+      "A": "PHOTOSYNTHESIS",
+      "B": "OVERFISHING",
+      "C": "RAINFALL",
+      "D": "POLLINATION"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 177,
+    "question": "Which national park is famous for Asiatic Lions?",
+    "options": {
+      "A": "CORBETT",
+      "B": "GIR",
+      "C": "KANHA",
+      "D": "KAZIRANGA"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 178,
+    "question": "Which bird sanctuary is in Bharatpur, Rajasthan?",
+    "options": {
+      "A": "CHILIKA",
+      "B": "RANGANATHITTU",
+      "C": "NAL SAROVAR",
+      "D": "KEOLADEO"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 179,
+    "question": "The sequence of organisms through which energy flows in an ecosystem is called:",
+    "options": {
+      "A": "Food chain",
+      "B": "Ecological succession",
+      "C": "Food pyramid",
+      "D": "Food web"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 180,
+    "question": "Which term refers to species found only in a particular region?",
+    "options": {
+      "A": "ENDEMIC",
+      "B": "EXOTIC",
+      "C": "INVASIVE",
+      "D": "NATIVE"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 181,
+    "question": "Which Indian state is famous for coral reefs in Lakshadweep?",
+    "options": {
+      "A": "TAMIL NADU",
+      "B": "GUJARAT",
+      "C": "LAKSHADWEEP UT",
+      "D": "KERALA"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 182,
+    "question": "Which species is known as the “National Aquatic Animal of India”?",
+    "options": {
+      "A": "TORTOISE",
+      "B": "CROCODILE",
+      "C": "DOLPHIN (GANGES RIVER DOLPHIN)",
+      "D": "DUGONG"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 183,
+    "question": "Which ecosystem plays a major role in protecting coastlines from erosion?",
+    "options": {
+      "A": "ALPINE FORESTS",
+      "B": "MANGROVES",
+      "C": "DESERTS",
+      "D": "GRASSLANDS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 184,
+    "question": "The Nilgiri Biosphere Reserve lies in which biodiversity hotspot?",
+    "options": {
+      "A": "WESTERN GHATS",
+      "B": "INDO-MALAYAN",
+      "C": "HIMALAYA",
+      "D": "INDO-BURMA"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 185,
+    "question": "Which of the following is NOT a major threat to endangered species?",
+    "options": {
+      "A": "HABITAT LOSS AND DESTRUCTION",
+      "B": "CLIMATE CHANGE",
+      "C": "INTRODUCTION OF INVASIVE SPECIES",
+      "D": "RESPONSIBLE ECOTOURISM"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 186,
+    "question": "Which international organisation maintains the Red List of Threatened Species?",
+    "options": {
+      "A": "INTERNATIONAL UNION FOR CONSERVATION OF NATURE (IUCN)",
+      "B": "UNITED NATIONS ENVIRONMENT PROGRAMME (UNEP)",
+      "C": "WORLD HEALTH ORGANIZATION (WHO)",
+      "D": "FOOD AND AGRICULTURE ORGANIZATION (FAO)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 187,
+    "question": "What does Critically endangered species mean?",
+    "options": {
+      "A": "EXTREMELY HIGH RISK OF EXTINCTION IN THE WILD",
+      "B": "LIKELY TO BECOME ENDANGERED SOON",
+      "C": "KNOWN ONLY TO SURVIVE IN CAPTIVITY",
+      "D": "HIGH RISK OF ENDANGERMENT IN THE WILD"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 188,
+    "question": "Which endemic animal is found only in Gir Forest of Gujarat?",
+    "options": {
+      "A": "RHINOCEROS",
+      "B": "BISON",
+      "C": "ASIATIC LION",
+      "D": "NILGIRI TAHR"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 189,
+    "question": "The species which are in danger of extinction are called:",
+    "options": {
+      "A": "ENDANGERED SPECIES",
+      "B": "VULNERABLE SPECIES",
+      "C": "RARE SPECIES",
+      "D": "ENDEMIC SPECIES"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 190,
+    "question": "Which of the following represents a grazing food chain?",
+    "options": {
+      "A": "Algae → Zooplankton → Fish",
+      "B": "Dead plants → Fungi → Bacteria",
+      "C": "Lion → Hyena → Vulture",
+      "D": "Grass → Grasshopper → Frog → Snake"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 191,
+    "question": "Which one of the following is not responsible for the decline in India's biodiversity?",
+    "options": {
+      "A": "AFFORESTATION",
+      "B": "MINING ACTIVITIES",
+      "C": "FOREST FIRE",
+      "D": "HUNTING AND POACHING"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 192,
+    "question": "The Wildlife Protection Act was implemented in:",
+    "options": {
+      "A": "2010",
+      "B": "1982",
+      "C": "1971",
+      "D": "1972"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 193,
+    "question": "The Indian government launched Project Tiger in which year?",
+    "options": {
+      "A": "1995",
+      "B": "1982",
+      "C": "1973",
+      "D": "1965"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 194,
+    "question": "IUCN maintains a list of threatened species known as the:",
+    "options": {
+      "A": "BLUE LIST",
+      "B": "GREEN BOOK",
+      "C": "RED LIST",
+      "D": "WHITE PAPER"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 195,
+    "question": "Which of the following is considered the biggest threat to endangered species today?",
+    "options": {
+      "A": "DISEASE",
+      "B": "NATURAL DISASTERS",
+      "C": "HABITAT LOSS AND DESTRUCTION",
+      "D": "POLLUTION"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 196,
+    "question": "The Red Data Book provides data on:",
+    "options": {
+      "A": "ENDANGERED ANIMALS AND PLANTS",
+      "B": "ALL OF THE ABOVE",
+      "C": "SPECIES FOUND IN FORESTS",
+      "D": "ENDEMIC SPECIES"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 197,
+    "question": "___ conservation involves protecting a species in its natural habitat.",
+    "options": {
+      "A": "EX-SITU CONSERVATION",
+      "B": "OFF-SITE CONSERVATION",
+      "C": "ARTIFICIAL CONSERVATION",
+      "D": "IN-SITU CONSERVATION"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 198,
+    "question": "What is an endemic species?",
+    "options": {
+      "A": "SPECIES THAT HAVE GONE EXTINCT",
+      "B": "SPECIES FOUND IN MANY GEOGRAPHIC AREAS",
+      "C": "SPECIES RESTRICTED TO A PARTICULAR GEOGRAPHIC AREA",
+      "D": "SPECIES WHICH ARE IN LESS NUMBER"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 199,
+    "question": "The Purple Frog is an endemic species found in the rainforests of:",
+    "options": {
+      "A": "HIMALAYAS",
+      "B": "WESTERN GHATS",
+      "C": "ARAVALLI RANGE",
+      "D": "EASTERN GHATS"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 200,
+    "question": "Which of the following is NOT a method of in-situ conservation?",
+    "options": {
+      "A": "MARINE PROTECTED AREAS",
+      "B": "WILDLIFE SANCTUARIES",
+      "C": "BOTANICAL GARDENS",
+      "D": "SACRED GROVES"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 201,
+    "question": "The interconnected network of food chains in an ecosystem is known as:",
+    "options": {
+      "A": "Food chain",
+      "B": "Food web",
+      "C": "Trophic level",
+      "D": "Food pyramid"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 202,
+    "question": "The consequence of the destruction of habitat for an endemic species causes:",
+    "options": {
+      "A": "THE SPECIES IS AT A HIGH RISK OF EXTINCTION",
+      "B": "THE SPECIES WILL MOVE TO ANOTHER LOCATION",
+      "C": "THE SPECIES POPULATION WILL INCREASE",
+      "D": "THE SPECIES WILL ADAPT TO THE NEW CONDITIONS"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 203,
+    "question": "The main focus of conservation efforts for endemic species is:",
+    "options": {
+      "A": "ESTABLISHING CAPTIVE BREEDING PROGRAMS IN ZOOS",
+      "B": "TRANSLOCATING THEM TO MULTIPLE REGIONS",
+      "C": "PROTECTING AND PRESERVING THEIR SPECIFIC HABITAT",
+      "D": "CONTROLLING THE POPULATION OF INVASIVE SPECIES"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 204,
+    "question": "What is the main purpose of creating biodiversity hotspots?",
+    "options": {
+      "A": "TO ENCOURAGE DEFORESTATION FOR AGRICULTURE",
+      "B": "TO PROTECT AREAS WITH HIGH ENDEMISM AND SPECIES RICHNESS",
+      "C": "TO PROMOTE TOURISM IN NATURAL AREAS",
+      "D": "TO PROTECT AREAS WITH LOW SPECIES DIVERSITY"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 205,
+    "question": "What is the difference between in-situ and ex-situ conservation?",
+    "options": {
+      "A": "THE DURATION OF THE CONSERVATION PROGRAM",
+      "B": "THE TYPE OF SPECIES BEING CONSERVED",
+      "C": "THE LOCATION WHERE THE CONSERVATION TAKES PLACE",
+      "D": "THE HUMAN ACTIVITY"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 206,
+    "question": "Biological Diversity Act was implemented in the year:",
+    "options": {
+      "A": "2002",
+      "B": "1972",
+      "C": "1992",
+      "D": "1973"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 207,
+    "question": "The Indian government launched Project Elephant in which year?",
+    "options": {
+      "A": "1995",
+      "B": "1992",
+      "C": "1982",
+      "D": "1973"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 208,
+    "question": "Where was the first tiger reserve established in India?",
+    "options": {
+      "A": "BANDIPUR NATIONAL PARK",
+      "B": "SUNDARBANS NATIONAL PARK",
+      "C": "JIM CORBETT NATIONAL PARK",
+      "D": "KANHA NATIONAL PARK"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 209,
+    "question": "Which of the following is a primary air pollutant?",
+    "options": {
+      "A": "Smog",
+      "B": "Sulfur dioxide",
+      "C": "Ozone",
+      "D": "Acid rain"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 210,
+    "question": "The major contributor to urban air pollution is:",
+    "options": {
+      "A": "Agriculture",
+      "B": "Transportation",
+      "C": "Mining",
+      "D": "Forests"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 211,
+    "question": "Electrostatic precipitators are used to control:",
+    "options": {
+      "A": "Particulate matter",
+      "B": "Noise",
+      "C": "Thermal pollution",
+      "D": "Carbon dioxide"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 212,
+    "question": "In a food chain, the green plants are always:",
+    "options": {
+      "A": "Primary consumers",
+      "B": "Secondary consumers",
+      "C": "Producers",
+      "D": "Decomposers"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 213,
+    "question": "Catalytic converters in vehicles help reduce emissions of:",
+    "options": {
+      "A": "CO, NOx, Hydrocarbons",
+      "B": "Dust and Pollen",
+      "C": "Nitrates, Phosphates",
+      "D": "SO2, CO2, Particulates"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 214,
+    "question": "Which pollutant is most associated with ozone layer depletion?",
+    "options": {
+      "A": "Ozone",
+      "B": "CFCs",
+      "C": "CO2",
+      "D": "Methane"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 215,
+    "question": "National AQI in India is monitored by:",
+    "options": {
+      "A": "NITI Aayog",
+      "B": "WHO",
+      "C": "CPCB",
+      "D": "UNEP"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 216,
+    "question": "Blue Baby Syndrome is caused by excess:",
+    "options": {
+      "A": "Arsenic",
+      "B": "Fluoride",
+      "C": "Nitrate",
+      "D": "Lead"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 217,
+    "question": "Eutrophication is caused by excess of:",
+    "options": {
+      "A": "Chloride",
+      "B": "Iron",
+      "C": "Oxygen",
+      "D": "Nitrates and Phosphates"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 218,
+    "question": "The permissible limit of fluoride in drinking water (mg/L) is:",
+    "options": {
+      "A": "0.5",
+      "B": "2.0",
+      "C": "1.0",
+      "D": "5.0"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 219,
+    "question": "Which treatment stage uses microorganisms to degrade organic matter?",
+    "options": {
+      "A": "Advanced",
+      "B": "Primary",
+      "C": "Secondary",
+      "D": "Tertiary"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 220,
+    "question": "Oil spills in oceans are examples of:",
+    "options": {
+      "A": "Point source pollution",
+      "B": "Natural pollution",
+      "C": "Radioactive pollution",
+      "D": "Non-point source pollution"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 221,
+    "question": "Which heavy metal has a maximum permissible limit of 0.01 mg/L in water?",
+    "options": {
+      "A": "Arsenic",
+      "B": "Lead",
+      "C": "Cadmium",
+      "D": "Mercury"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 222,
+    "question": "Which of the following indicates fecal contamination in water?",
+    "options": {
+      "A": "Calcium",
+      "B": "Fluoride",
+      "C": "Iron",
+      "D": "E. coli"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 223,
+    "question": "The largest artificial ecosystem on Earth is:",
+    "options": {
+      "A": "Agricultural fields",
+      "B": "Aquarium",
+      "C": "Reservoirs",
+      "D": "Urban cities"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 224,
+    "question": "Which ecological pyramid is always upright?",
+    "options": {
+      "A": "Pyramid of biomass",
+      "B": "Pyramid of number",
+      "C": "All pyramids",
+      "D": "Pyramid of energy"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 225,
+    "question": "Which of the following is NOT a soil pollutant?",
+    "options": {
+      "A": "Pesticides",
+      "B": "Fertilizers",
+      "C": "Oxygen",
+      "D": "Mercury"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 226,
+    "question": "Phytoremediation is used to:",
+    "options": {
+      "A": "Remove toxins from soil",
+      "B": "Reduce noise levels",
+      "C": "Treat wastewater",
+      "D": "Control air pollution"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 227,
+    "question": "The major source of soil contamination from cities is:",
+    "options": {
+      "A": "Rainwater",
+      "B": "Urban landfills",
+      "C": "Mining",
+      "D": "Volcanoes"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 228,
+    "question": "Bioaccumulation of heavy metals in the food chain is an effect of:",
+    "options": {
+      "A": "Thermal pollution",
+      "B": "Soil pollution",
+      "C": "Noise pollution",
+      "D": "Light pollution"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 229,
+    "question": "Permissible night-time noise level in residential areas (dB) is:",
+    "options": {
+      "A": "55",
+      "B": "45",
+      "C": "65",
+      "D": "75"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 230,
+    "question": "Which of the following is a common effect of noise pollution?",
+    "options": {
+      "A": "Hearing loss",
+      "B": "Cancer",
+      "C": "Asthma",
+      "D": "Fluorosis"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 231,
+    "question": "Silence zones are usually established near:",
+    "options": {
+      "A": "Factories",
+      "B": "Schools and hospitals",
+      "C": "Markets",
+      "D": "Bus stations"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 232,
+    "question": "Radioactive pollution is mainly caused by:",
+    "options": {
+      "A": "Methane",
+      "B": "Lead",
+      "C": "CFCs",
+      "D": "Plutonium and Uranium"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 233,
+    "question": "The main pollutant from mining activities is:",
+    "options": {
+      "A": "Ozone",
+      "B": "Fluoride",
+      "C": "CO2",
+      "D": "Heavy metals"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 234,
+    "question": "Acid rain damages aquatic life by lowering:",
+    "options": {
+      "A": "pH",
+      "B": "Hardness",
+      "C": "Temperature",
+      "D": "Salinity"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 235,
+    "question": "In a food pyramid, the largest number of organisms is found at the:",
+    "options": {
+      "A": "Top carnivore level",
+      "B": "Producer level",
+      "C": "Secondary consumer level",
+      "D": "Tertiary consumer level"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 236,
+    "question": "The main source of methane emissions is:",
+    "options": {
+      "A": "Transport",
+      "B": "Factories",
+      "C": "Agriculture and wetlands",
+      "D": "Nuclear plants"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 237,
+    "question": "Baghouse filters are used to:",
+    "options": {
+      "A": "Remove particulates from flue gases",
+      "B": "Reduce noise",
+      "C": "Absorb heavy metals",
+      "D": "Filter water"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 238,
+    "question": "Which pollutant is most associated with Minamata disease?",
+    "options": {
+      "A": "Arsenic",
+      "B": "Lead",
+      "C": "Mercury",
+      "D": "Cadmium"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 239,
+    "question": "Solid Waste Management Rules (2016) were issued by:",
+    "options": {
+      "A": "UNEP",
+      "B": "WHO",
+      "C": "IPCC",
+      "D": "CPCB"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 240,
+    "question": "The effect of long-term arsenic exposure is:",
+    "options": {
+      "A": "Asthma",
+      "B": "Cancer and skin lesions",
+      "C": "Blue Baby Syndrome",
+      "D": "Fluorosis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 241,
+    "question": "Noise pollution affects birds by:",
+    "options": {
+      "A": "Disturbing communication and breeding",
+      "B": "None of the above",
+      "C": "Helping migration",
+      "D": "Increasing reproduction"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 242,
+    "question": "Thermal pollution is mainly caused by:",
+    "options": {
+      "A": "Urban traffic",
+      "B": "Agriculture",
+      "C": "Power plants and industries",
+      "D": "Forests"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 243,
+    "question": "The permissible limit of arsenic in drinking water (mg/L) is:",
+    "options": {
+      "A": "1.0",
+      "B": "0.1",
+      "C": "0.01",
+      "D": "0.001"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 244,
+    "question": "Municipal solid waste mainly contributes to:",
+    "options": {
+      "A": "Air pollution",
+      "B": "Thermal pollution",
+      "C": "Soil pollution",
+      "D": "Radioactive pollution"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 245,
+    "question": "Which of the following is an example of secondary pollutant?",
+    "options": {
+      "A": "Smog",
+      "B": "SO2",
+      "C": "CO",
+      "D": "NOx"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 246,
+    "question": "Which of the following organisms occupies the highest trophic level in a food chain?",
+    "options": {
+      "A": "Producers",
+      "B": "Top carnivores",
+      "C": "Decomposers",
+      "D": "Herbivores"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 247,
+    "question": "The CPCB full form is:",
+    "options": {
+      "A": "Centre for Pollution Check Bureau",
+      "B": "Central Power Control Board",
+      "C": "Central Pollution Control Board",
+      "D": "Central Pollution Case Bureau"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 248,
+    "question": "The maximum permissible limit of mercury in water (mg/L) is:",
+    "options": {
+      "A": "0.1",
+      "B": "0.05",
+      "C": "0.01",
+      "D": "0.001"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 249,
+    "question": "The main effect of excess fluoride in water is:",
+    "options": {
+      "A": "Asthma",
+      "B": "Cancer",
+      "C": "Hearing loss",
+      "D": "Dental and skeletal fluorosis"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 250,
+    "question": "Urban heat islands are associated with which pollution type?",
+    "options": {
+      "A": "Radioactive pollution",
+      "B": "Thermal pollution",
+      "C": "Noise pollution",
+      "D": "Air pollution"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 251,
+    "question": "Acid mine drainage is associated with:",
+    "options": {
+      "A": "Oil spills",
+      "B": "Fertilizers",
+      "C": "Forests",
+      "D": "Mining"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 252,
+    "question": "Which type of pollution disrupts circadian rhythms?",
+    "options": {
+      "A": "Radioactive",
+      "B": "Noise",
+      "C": "Soil",
+      "D": "Light"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 253,
+    "question": "The noise pollution limit for commercial areas during the day is:",
+    "options": {
+      "A": "55 dB",
+      "B": "65 dB",
+      "C": "75 dB",
+      "D": "50 dB"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 254,
+    "question": "Smog is a mixture of:",
+    "options": {
+      "A": "CO2 and O2",
+      "B": "Sand and dust",
+      "C": "Smoke and fog",
+      "D": "Rain and dust"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 255,
+    "question": "Which pollutant is mainly responsible for global warming?",
+    "options": {
+      "A": "CFCs",
+      "B": "SO2",
+      "C": "O3",
+      "D": "CO2"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 256,
+    "question": "The CPCB permissible limit for nitrates in drinking water (mg/L) is:",
+    "options": {
+      "A": "10",
+      "B": "100",
+      "C": "45",
+      "D": "25"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 257,
+    "question": "In a detritus food chain, the primary source of energy is:",
+    "options": {
+      "A": "Producers",
+      "B": "Sunlight",
+      "C": "Dead organic matter",
+      "D": "Herbivores"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 258,
+    "question": "The main effect of carbon monoxide poisoning is:",
+    "options": {
+      "A": "Asthma",
+      "B": "Hearing loss",
+      "C": "Fluorosis",
+      "D": "Reduced oxygen transport in blood"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 259,
+    "question": "Which of the following solid wastes describes the term ‘Municipal Solid Waste’?",
+    "options": {
+      "A": "Non-toxic",
+      "B": "Non-hazardous",
+      "C": "Hazardous",
+      "D": "Toxic"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 260,
+    "question": "Why is it difficult to recycle plastics?",
+    "options": {
+      "A": "It is very hard",
+      "B": "It comes in different sizes",
+      "C": "It contains different types of polymer resins",
+      "D": "It is adhesive"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 261,
+    "question": "Which of the following is done on an individual level?",
+    "options": {
+      "A": "Recycling",
+      "B": "Disposal",
+      "C": "Source reduction",
+      "D": "Burning"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 262,
+    "question": "The organic material of the solid waste will decompose",
+    "options": {
+      "A": "By oxidation",
+      "B": "By the action of microorganisms",
+      "C": "By the flow of water",
+      "D": "By the soil particles"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 263,
+    "question": "The process of burning municipal solid wastes under suitable temperature and conditions in a specific furnace is called",
+    "options": {
+      "A": "Incineration",
+      "B": "Landfill",
+      "C": "Recycling",
+      "D": "Vermi composting"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 264,
+    "question": "The burning of solid waste is not recommended because",
+    "options": {
+      "A": "It causes several environmental issues",
+      "B": "It requires modern technologies",
+      "C": "It is very costly",
+      "D": "It requires a lot of space"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 265,
+    "question": "When the organic matter present in the sanitary landfill decomposes, it generates",
+    "options": {
+      "A": "Nitrogen",
+      "B": "Methane",
+      "C": "Hydrogen",
+      "D": "All of the above"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 266,
+    "question": "Which of the following is the oldest and most common method used to dump solid wastes?",
+    "options": {
+      "A": "Ocean",
+      "B": "None of the above",
+      "C": "River",
+      "D": "Landfill"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 267,
+    "question": "Which of the following statements is incorrect for plastic waste?",
+    "options": {
+      "A": "All of the above",
+      "B": "It lasts for a longer period of time",
+      "C": "It is used to make compost",
+      "D": "Toxic fumes are produced when burnt"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 268,
+    "question": "Which food chain correctly shows the flow of energy in a pond ecosystem?",
+    "options": {
+      "A": "Large fish → Small fish → Zooplankton → Phytoplankton",
+      "B": "Zooplankton → Phytoplankton → Small fish → Large fish",
+      "C": "Phytoplankton → Zooplankton → Small fish → Large fish",
+      "D": "Phytoplankton → Small fish → Zooplankton → Large fish"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 269,
+    "question": "Which of the following can be recycled many times?",
+    "options": {
+      "A": "Wood",
+      "B": "Plastic",
+      "C": "Organic materials",
+      "D": "Aluminium"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 270,
+    "question": "Which of the following gases is produced from landfill wastes?",
+    "options": {
+      "A": "Biogas",
+      "B": "All of the above",
+      "C": "Liquified petroleum gas",
+      "D": "Natural gas"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 271,
+    "question": "Which country produces the most e-waste per year?",
+    "options": {
+      "A": "USA",
+      "B": "France",
+      "C": "China",
+      "D": "India"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 272,
+    "question": "The most valuable part of a PC or TV is the",
+    "options": {
+      "A": "None of the above",
+      "B": "Lead in the CRT",
+      "C": "Copper in the cathode yoke",
+      "D": "Circuit boards that contain silver and gold"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 273,
+    "question": "Which of the following is not a basic characteristic in determining whether solid waste is hazardous:",
+    "options": {
+      "A": "Morbidity",
+      "B": "Ignitability",
+      "C": "Toxicity",
+      "D": "Corrosivity"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 274,
+    "question": "What was the main reason the construction company decided to implement OHSMS?",
+    "options": {
+      "A": "To expand business operations",
+      "B": "To reduce frequent workplace accidents",
+      "C": "To increase marketing reach",
+      "D": "To cut material costs"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 275,
+    "question": "Which international standard did the company use as a guideline for OHSMS?",
+    "options": {
+      "A": "ISO 14001",
+      "B": "ISO 27001",
+      "C": "ISO 9001",
+      "D": "ISO 45001"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 276,
+    "question": "What was the first step taken by the company in implementing the OHSMS?",
+    "options": {
+      "A": "Gap analysis",
+      "B": "Risk assessment",
+      "C": "Marketing campaign",
+      "D": "Employee hiring"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 277,
+    "question": "How did the company involve employees in the safety process?",
+    "options": {
+      "A": "By increasing work hours",
+      "B": "By reducing training sessions",
+      "C": "By forming safety committees",
+      "D": "By outsourcing safety"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 278,
+    "question": "What was one key benefit achieved after implementing the OHSMS?",
+    "options": {
+      "A": "Improved safety culture and employee morale",
+      "B": "Increased product defects",
+      "C": "Project delays due to accidents",
+      "D": "Increased insurance premiums"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 279,
+    "question": "Why does the pyramid of energy never get inverted?",
+    "options": {
+      "A": "Energy flows in cycles",
+      "B": "Biomass is always constant",
+      "C": "Energy decreases at each trophic level",
+      "D": "Number of organisms increases at higher levels"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 280,
+    "question": "What was one of the main hazards addressed in the manufacturing plant’s OHSMS?",
+    "options": {
+      "A": "Ergonomic risks",
+      "B": "Chemical hazards",
+      "C": "Biological hazards",
+      "D": "Psychological stress"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 281,
+    "question": "Which control measure was introduced to reduce airborne chemical exposure?",
+    "options": {
+      "A": "Ventilation systems",
+      "B": "Financial incentives",
+      "C": "Marketing campaigns",
+      "D": "Increased work hours"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 282,
+    "question": "Why was safety training important in the manufacturing plant’s OHSMS?",
+    "options": {
+      "A": "To teach safe handling of chemicals and machinery",
+      "B": "To reduce wages",
+      "C": "To speed up production",
+      "D": "To improve sales techniques"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 283,
+    "question": "What was a significant outcome of implementing engineering controls?",
+    "options": {
+      "A": "Reduced airborne chemical hazards",
+      "B": "More accidents",
+      "C": "Higher noise levels",
+      "D": "Increased chemical exposure"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 284,
+    "question": "How did employee involvement impact the manufacturing plant’s OHSMS?",
+    "options": {
+      "A": "Decreased communication",
+      "B": "Increased production errors",
+      "C": "Reduced safety training",
+      "D": "Improved safety culture and hazard reporting"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 285,
+    "question": "Which international safety standard did Tata Steel adopt for its OHSMS?",
+    "options": {
+      "A": "ISO 14001",
+      "B": "ISO 9001",
+      "C": "ISO 27001",
+      "D": "ISO 45001"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 286,
+    "question": "What digital technology did Tata Steel use for real-time safety monitoring?",
+    "options": {
+      "A": "RFID for inventory only",
+      "B": "Drones for marketing",
+      "C": "Wearable devices and AI systems",
+      "D": "Social media"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 287,
+    "question": "What was a key result of implementing the OHSMS at Tata Steel?",
+    "options": {
+      "A": "Decreased production output",
+      "B": "Less employee engagement",
+      "C": "Reduced Lost Time Injury Frequency Rate (LTIFR)",
+      "D": "Increase in incident rates"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 288,
+    "question": "What type of safety programs did Tata Steel use to train staff?",
+    "options": {
+      "A": "Customer service programs",
+      "B": "Marketing training",
+      "C": "Financial literacy programs",
+      "D": "Safety leadership and behavior-based training"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 289,
+    "question": "Which prestigious award did Tata Steel receive for its safety performance?",
+    "options": {
+      "A": "National Award for Innovation",
+      "B": "ISO 9001 from BIS",
+      "C": "Golden Peacock for Marketing",
+      "D": "Sword of Honour from British Safety Council"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 290,
+    "question": "In a food web, organisms that feed on both plants and animals are called:",
+    "options": {
+      "A": "Omnivores",
+      "B": "Herbivores",
+      "C": "Producers",
+      "D": "Carnivores"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 291,
+    "question": "Which international standard did Toyota adopt for its Occupational Health and Safety Management System?",
+    "options": {
+      "A": "ISO 9001",
+      "B": "ISO 45001",
+      "C": "ISO 27001",
+      "D": "ISO 14001"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 292,
+    "question": "What continuous improvement philosophy did Toyota apply to workplace safety?",
+    "options": {
+      "A": "Kaizen",
+      "B": "Six Sigma",
+      "C": "Agile",
+      "D": "Lean Startup"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 293,
+    "question": "How did Toyota encourage employee participation in safety management?",
+    "options": {
+      "A": "Outsourcing safety responsibilities",
+      "B": "Limiting feedback",
+      "C": "Through safety committees and open communication channels",
+      "D": "Increasing work hours"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 294,
+    "question": "What engineering controls did Toyota implement to reduce hazard exposure?",
+    "options": {
+      "A": "Machine guards and automated safety devices",
+      "B": "Larger work shifts",
+      "C": "Marketing campaigns",
+      "D": "Financial bonuses"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 295,
+    "question": "What was a key outcome of Toyota’s OHSMS implementation?",
+    "options": {
+      "A": "Reduced lost-time incidents",
+      "B": "Decreased employee engagement",
+      "C": "Increased workplace injuries",
+      "D": "Higher legal penalties"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 296,
+    "question": "OHSMS is primarily designed to:",
+    "options": {
+      "A": "Improve product design",
+      "B": "Increase company profits",
+      "C": "Manage workplace health and safety risks",
+      "D": "Promote consumer satisfaction"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 297,
+    "question": "Which of the following is NOT an objective of OHSMS?",
+    "options": {
+      "A": "Preventing accidents and diseases",
+      "B": "Ensuring safe working conditions",
+      "C": "Promoting safety culture",
+      "D": "Increasing production speed at all costs"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 298,
+    "question": "“Hazard identification and risk assessment” comes under which element of OHSMS?",
+    "options": {
+      "A": "Policy",
+      "B": "Planning",
+      "C": "Implementation",
+      "D": "Monitoring"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 299,
+    "question": "Safety audits, inspections, and reporting are part of which OHSMS element?",
+    "options": {
+      "A": "Policy",
+      "B": "Monitoring",
+      "C": "Improvement",
+      "D": "Implementation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 300,
+    "question": "Providing PPE and conducting emergency drills fall under:",
+    "options": {
+      "A": "Implementation",
+      "B": "Planning",
+      "C": "Review",
+      "D": "Policy"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 301,
+    "question": "Which ecological pyramid may sometimes appear inverted?",
+    "options": {
+      "A": "Pyramid of numbers",
+      "B": "Pyramid of energy",
+      "C": "All pyramids",
+      "D": "Pyramid of biomass"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 302,
+    "question": "The Plan–Do–Check–Act cycle in OHSMS emphasizes:",
+    "options": {
+      "A": "Reducing production costs",
+      "B": "Emergency evacuation only",
+      "C": "Avoiding employee training",
+      "D": "Continuous improvement"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 303,
+    "question": "Which of the following best represents the “Policy” element of OHSMS?",
+    "options": {
+      "A": "Safety audits",
+      "B": "Management commitment to safety",
+      "C": "Hazard reporting",
+      "D": "Corrective actions"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 304,
+    "question": "Reduced insurance and compensation costs are an example of:",
+    "options": {
+      "A": "OHSMS standards",
+      "B": "OHSMS monitoring",
+      "C": "OHSMS benefits",
+      "D": "OHSMS challenges"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 305,
+    "question": "The National Environmental Protection Act was passed in India in which year?",
+    "options": {
+      "A": "1995",
+      "B": "1981",
+      "C": "1986",
+      "D": "1974"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 306,
+    "question": "Which of the following Acts gives rights to citizens to file cases against violation of environmental norms?",
+    "options": {
+      "A": "Air Pollution Act",
+      "B": "Environment (Protection) Act",
+      "C": "Forest Act",
+      "D": "Water Pollution Act"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 307,
+    "question": "In which year Forest Conservation Act was passed?",
+    "options": {
+      "A": "1980",
+      "B": "1988",
+      "C": "1982",
+      "D": "1986"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 308,
+    "question": "The definition of ‘environmental pollution’ under the Environment (Protection Act) is:",
+    "options": {
+      "A": "Any pollution in land, sea and air",
+      "B": "The presence of any solid, liquid or gaseous substance in the environment that causes injuries to man",
+      "C": "The presence in the environment of any environmental pollution",
+      "D": "Any pollution of air, water and soil"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 309,
+    "question": "The three R's which can help us to conserve natural resources for long term use are:",
+    "options": {
+      "A": "Reduce, Regenerate, Reuse",
+      "B": "More than one of the above",
+      "C": "Recycle, Regenerate, Reuse",
+      "D": "Reduce, Recycle, Reuse"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 310,
+    "question": "The Environment Protection Act, 1986 passed in March 1986, it came into force on:",
+    "options": {
+      "A": "19 November 1986",
+      "B": "1 July 1986",
+      "C": "1 January 1987",
+      "D": "1 April 1986"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 311,
+    "question": "Which one of the following is not a natural pollution?",
+    "options": {
+      "A": "Air pollution",
+      "B": "Cyclone",
+      "C": "Flood",
+      "D": "Earthquake"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 312,
+    "question": "The amount of energy transferred from one trophic level to the next is approximately:",
+    "options": {
+      "A": "1%",
+      "B": "50%",
+      "C": "25%",
+      "D": "10%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 313,
+    "question": "Kyoto Protocol is related to:",
+    "options": {
+      "A": "Air pollution",
+      "B": "Climate change",
+      "C": "Water pollution",
+      "D": "Greenhouse Gas"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 314,
+    "question": "Environmental protection has been made a fundamental duty of every citizen of India under Article:",
+    "options": {
+      "A": "51-A A",
+      "B": "51-A (g)",
+      "C": "51-A (e)",
+      "D": "51"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 315,
+    "question": "The Forest (Conservation) Act extends to the whole of India except:",
+    "options": {
+      "A": "Karnataka",
+      "B": "Jammu and Kashmir",
+      "C": "Uttar Pradesh",
+      "D": "Haryana"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 316,
+    "question": "The Air (Prevention and Control of Pollution) Act was enacted in the year:",
+    "options": {
+      "A": "1996",
+      "B": "1974",
+      "C": "1981",
+      "D": "2000"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 317,
+    "question": "Noise pollution has been inserted as pollution in the Air Act in:",
+    "options": {
+      "A": "1981",
+      "B": "2000",
+      "C": "1987",
+      "D": "1982"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 318,
+    "question": "The lion in a grassland food chain is an example of:",
+    "options": {
+      "A": "Producer",
+      "B": "Primary consumer",
+      "C": "Tertiary consumer",
+      "D": "Secondary consumer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 319,
+    "question": "The flow of energy in an ecosystem is always:",
+    "options": {
+      "A": "Reversible",
+      "B": "Cyclic",
+      "C": "Multidirectional",
+      "D": "Linear"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 320,
+    "question": "Food webs provide more stability to the ecosystem than food chains because:",
+    "options": {
+      "A": "They have fewer trophic levels",
+      "B": "They depend only on producers",
+      "C": "They are shorter than food chains",
+      "D": "They offer alternative pathways for energy flow"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 321,
+    "question": "The variety of life forms at all levels of biological organization is called:",
+    "options": {
+      "A": "Ecosystem",
+      "B": "Biodiversity",
+      "C": "Biomass",
+      "D": "Ecology"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 322,
+    "question": "Which type of biodiversity refers to variations within the same species?",
+    "options": {
+      "A": "Genetic diversity",
+      "B": "Habitat diversity",
+      "C": "Species diversity",
+      "D": "Ecosystem diversity"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 323,
+    "question": "Which type of biodiversity refers to the variety of species in a given area?",
+    "options": {
+      "A": "Genetic diversity",
+      "B": "Ecosystem diversity",
+      "C": "Population diversity",
+      "D": "Species diversity"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 324,
+    "question": "Which type of biodiversity refers to different habitats, biotic communities, and ecological processes?",
+    "options": {
+      "A": "Species diversity",
+      "B": "Genetic diversity",
+      "C": "Ecosystem diversity",
+      "D": "Habitat diversity"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 325,
+    "question": "India is recognized as a mega-diversity nation because:",
+    "options": {
+      "A": "It has the largest forests",
+      "B": "It has maximum wetlands",
+      "C": "It has a wide variety of species and ecosystems",
+      "D": "It has only endemic species"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 326,
+    "question": "The Himalaya and Indo-Burma regions are examples of:",
+    "options": {
+      "A": "Wildlife sanctuaries",
+      "B": "Biodiversity hotspots",
+      "C": "Ex-situ conservation sites",
+      "D": "Genetic reserves"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 327,
+    "question": "Which of the following is a consumptive use value of biodiversity?",
+    "options": {
+      "A": "Recreational value",
+      "B": "Aesthetic value",
+      "C": "Fuel wood",
+      "D": "Cultural value"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 328,
+    "question": "Which of the following is a non-consumptive use value of biodiversity?",
+    "options": {
+      "A": "Medicine",
+      "B": "Ecotourism",
+      "C": "Timber",
+      "D": "Food"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 329,
+    "question": "The greatest threat to biodiversity is:",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Medicinal plant use",
+      "C": "Ex-situ conservation",
+      "D": "Habitat loss"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 330,
+    "question": "Which of the following ecosystems has the highest productivity?",
+    "options": {
+      "A": "Tundra",
+      "B": "Estuary",
+      "C": "Desert",
+      "D": "Grassland"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 331,
+    "question": "The species found only in a particular area and nowhere else are called:",
+    "options": {
+      "A": "Endemic species",
+      "B": "Exotic species",
+      "C": "Endangered species",
+      "D": "Vulnerable species"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 332,
+    "question": "Which of the following is NOT a threat to biodiversity?",
+    "options": {
+      "A": "Habitat destruction",
+      "B": "Man-wildlife conflict",
+      "C": "Ex-situ conservation",
+      "D": "Poaching of wildlife"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 333,
+    "question": "Which biodiversity hotspot in India is richest in endemism?",
+    "options": {
+      "A": "Sundarbans",
+      "B": "Himalaya",
+      "C": "Gangetic plains",
+      "D": "Indo-Burma region"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 334,
+    "question": "Which of the following represents the option value of biodiversity?",
+    "options": {
+      "A": "Spiritual value of biodiversity",
+      "B": "Current use of biodiversity",
+      "C": "Cultural value of biodiversity",
+      "D": "Future potential use of biodiversity"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 335,
+    "question": "The Western Ghats are a hotspot of biodiversity because they:",
+    "options": {
+      "A": "Harbor a large number of endemic species",
+      "B": "Are densely populated",
+      "C": "Are rich in minerals",
+      "D": "Are used for agriculture"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 336,
+    "question": "Which international agreement focuses on the conservation of biodiversity?",
+    "options": {
+      "A": "Paris Agreement",
+      "B": "Convention on Biological Diversity (CBD)",
+      "C": "Kyoto Protocol",
+      "D": "Montreal Protocol"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 337,
+    "question": "Which Indian state is part of both the Indo-Burma and Himalaya hotspots?",
+    "options": {
+      "A": "Arunachal Pradesh",
+      "B": "Rajasthan",
+      "C": "Kerala",
+      "D": "Maharashtra"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 338,
+    "question": "Which of the following is an example of in-situ conservation of biodiversity?",
+    "options": {
+      "A": "Seed bank",
+      "B": "National park",
+      "C": "Zoo",
+      "D": "Botanical garden"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 339,
+    "question": "The IUCN Red List provides information about:",
+    "options": {
+      "A": "Conservation status of species",
+      "B": "Types of ecosystems",
+      "C": "Levels of biodiversity",
+      "D": "Agricultural practices"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 340,
+    "question": "The ethical value of biodiversity refers to:",
+    "options": {
+      "A": "The right of all species to exist",
+      "B": "Food and medicine",
+      "C": "Commercial use of species",
+      "D": "Recreation"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 341,
+    "question": "Which level of consumers directly depends on green plants for energy?",
+    "options": {
+      "A": "Quaternary consumers",
+      "B": "Primary consumers",
+      "C": "Tertiary consumers",
+      "D": "Secondary consumers"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 342,
+    "question": "Overexploitation of resources primarily leads to:",
+    "options": {
+      "A": "Formation of new species",
+      "B": "Increase in biodiversity",
+      "C": "Loss of biodiversity",
+      "D": "Stabilization of ecosystems"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 343,
+    "question": "The term \"Ecosystem\" was first coined by:",
+    "options": {
+      "A": "A.G. Tansley",
+      "B": "Odum",
+      "C": "Charles Darwin",
+      "D": "Ernst Haeckel"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 344,
+    "question": "The word \"Ecology\" was first coined by:",
+    "options": {
+      "A": "A.G. Tansley",
+      "B": "Ernst Haeckel",
+      "C": "Charles Elton",
+      "D": "Linnaeus"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 345,
+    "question": "The root word \"Eco\" in Ecology and Ecosystem is derived from Greek \"Oikos\", meaning:",
+    "options": {
+      "A": "House or dwelling place",
+      "B": "Organism",
+      "C": "Environment",
+      "D": "Nature"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 346,
+    "question": "Ecology is mainly concerned with:",
+    "options": {
+      "A": "Evolution of organisms",
+      "B": "Genetic variations",
+      "C": "Interactions between organisms and their environment",
+      "D": "Geological processes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 347,
+    "question": "The relationship between Ecology and Ecosystem can be defined as:",
+    "options": {
+      "A": "Ecosystem creates species, Ecology destroys them",
+      "B": "Ecology is smaller than an Ecosystem",
+      "C": "Ecology studies interactions, Ecosystem is the structural and functional unit",
+      "D": "They are unrelated concepts"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 348,
+    "question": "Which of the following pollutants is most commonly associated with agricultural runoff?",
+    "options": {
+      "A": "Nitrates and phosphates",
+      "B": "Asbestos",
+      "C": "Lead",
+      "D": "Mercury"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 349,
+    "question": "What is eutrophication?",
+    "options": {
+      "A": "Increase in oxygen levels in water",
+      "B": "Removal of pollutants from water",
+      "C": "Depletion of nutrients in water",
+      "D": "Excessive growth of algae due to nutrient pollution"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 350,
+    "question": "The presence of which of the following in drinking water indicates contamination by human or animal waste?",
+    "options": {
+      "A": "Iron",
+      "B": "Escherichia coli (E. coli)",
+      "C": "Nitrates",
+      "D": "Chlorine"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 351,
+    "question": "Acid rain is a type of water pollution caused mainly by:",
+    "options": {
+      "A": "Carbon monoxide and nitrogen",
+      "B": "Oxygen and helium",
+      "C": "Methane and hydrogen",
+      "D": "Sulfur dioxide and nitrogen oxides"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 352,
+    "question": "In an ecosystem, which organisms return nutrients back to the soil?",
+    "options": {
+      "A": "Decomposers",
+      "B": "Producers",
+      "C": "Primary consumers",
+      "D": "Secondary consumers"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 353,
+    "question": "The process of removing salt from seawater is called:",
+    "options": {
+      "A": "Chlorination",
+      "B": "Filtration",
+      "C": "Sedimentation",
+      "D": "Desalination"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 354,
+    "question": "Which of these is not a water-borne disease?",
+    "options": {
+      "A": "Cholera",
+      "B": "Dysentery",
+      "C": "Malaria",
+      "D": "Typhoid"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 355,
+    "question": "Point source pollution refers to pollution that:",
+    "options": {
+      "A": "Comes from rain",
+      "B": "Has no specific origin",
+      "C": "Comes from the atmosphere",
+      "D": "Can be traced to a specific location"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 356,
+    "question": "Which of these is a biological method of water purification?",
+    "options": {
+      "A": "Reverse osmosis",
+      "B": "Chlorination",
+      "C": "Activated sludge process",
+      "D": "Boiling"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 357,
+    "question": "Pesticides and fertilizers are primarily responsible for:",
+    "options": {
+      "A": "Increasing biodiversity",
+      "B": "Soil pollution",
+      "C": "Improving soil texture",
+      "D": "Erosion control"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 358,
+    "question": "Which of the following is a biodegradable pollutant?",
+    "options": {
+      "A": "DDT",
+      "B": "Glass",
+      "C": "Plastic",
+      "D": "Paper"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 359,
+    "question": "What is bioremediation?",
+    "options": {
+      "A": "Soil erosion control",
+      "B": "Use of microorganisms to clean pollutants",
+      "C": "Burning of waste",
+      "D": "Use of chemicals to remove pollution"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 360,
+    "question": "Landfills are a source of:",
+    "options": {
+      "A": "Groundwater recharge",
+      "B": "Pest control",
+      "C": "Soil contamination",
+      "D": "Soil improvement"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 361,
+    "question": "What is leaching in soil?",
+    "options": {
+      "A": "Removal of nutrients by water",
+      "B": "Aeration of soil",
+      "C": "Fertilizer application",
+      "D": "Addition of humus"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 362,
+    "question": "What is smog primarily composed of?",
+    "options": {
+      "A": "Water vapor and dust",
+      "B": "Ozone and carbon dioxide",
+      "C": "Smoke and fog",
+      "D": "Nitrogen and oxygen"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 363,
+    "question": "Which one of the following is a man-made/artificial ecosystem?",
+    "options": {
+      "A": "Pond",
+      "B": "Aquarium",
+      "C": "Grassland",
+      "D": "Forest"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 364,
+    "question": "Which of the following is a greenhouse gas contributing to global warming?",
+    "options": {
+      "A": "Argon",
+      "B": "Nitrogen",
+      "C": "Methane",
+      "D": "Neon"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 365,
+    "question": "What is the effect of ozone depletion?",
+    "options": {
+      "A": "More acid rain",
+      "B": "Increased ultraviolet radiation reaching Earth",
+      "C": "Decreased rainfall",
+      "D": "Increased greenhouse effect"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 366,
+    "question": "Which unit is commonly used to measure air pollution levels (such as particulate matter concentration)?",
+    "options": {
+      "A": "Hertz (Hz)",
+      "B": "Decibel (dB)",
+      "C": "Watts (W",
+      "D": "Micrograms per cubic meter (µg/m³)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 367,
+    "question": "Which of the following is a natural source of air pollution?",
+    "options": {
+      "A": "Burning fossil fuels",
+      "B": "Volcanic eruptions",
+      "C": "Factory emissions",
+      "D": "Automobile exhaust"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 368,
+    "question": "Which unit is used to measure noise levels?",
+    "options": {
+      "A": "Watt",
+      "B": "Newton",
+      "C": "Decibel (dB)",
+      "D": "Hertz"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 369,
+    "question": "What noise level is generally considered the threshold for harmful noise?",
+    "options": {
+      "A": "120 dB",
+      "B": "30 dB",
+      "C": "60 dB",
+      "D": "85 dB"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 370,
+    "question": "What does MSW stand for in waste management?",
+    "options": {
+      "A": "Managed Solid Waste",
+      "B": "Municipal Solid Waste",
+      "C": "Medical Solid Waste",
+      "D": "Mixed Solid Waste"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 371,
+    "question": "Which type of waste is classified as hazardous?",
+    "options": {
+      "A": "Food waste",
+      "B": "Plastic bottles",
+      "C": "Chemical solvents",
+      "D": "Paper waste"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 372,
+    "question": "The process of converting organic waste into nutrient-rich compost is called:",
+    "options": {
+      "A": "Composting",
+      "B": "Recycling",
+      "C": "Landfilling",
+      "D": "Incineration"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 373,
+    "question": "What is leachate?",
+    "options": {
+      "A": "Solid waste material",
+      "B": "Liquid formed when waste decomposes in a landfill",
+      "C": "Gas produced during incineration",
+      "D": "A type of hazardous waste"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 374,
+    "question": "The source of all energy in an ecosystem is:",
+    "options": {
+      "A": "Soil nutrients",
+      "B": "Sunlight",
+      "C": "Oxygen",
+      "D": "Water"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 375,
+    "question": "Which international treaty deals with hazardous waste movement?",
+    "options": {
+      "A": "Paris Agreement",
+      "B": "Kyoto Protocol",
+      "C": "Basel Convention",
+      "D": "Montreal Protocol"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 376,
+    "question": "Incineration of hazardous waste primarily helps in:",
+    "options": {
+      "A": "Producing compost",
+      "B": "Waste volume reduction",
+      "C": "Groundwater recharge",
+      "D": "Increasing toxicity"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 377,
+    "question": "Which of the following is a solid waste segregation technique?",
+    "options": {
+      "A": "Leachate treatment",
+      "B": "Open burning",
+      "C": "Bulk dumping",
+      "D": "Source separation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 378,
+    "question": "Which hazardous waste treatment process involves heating waste in the absence of oxygen?",
+    "options": {
+      "A": "Incineration",
+      "B": "Landfilling",
+      "C": "Composting",
+      "D": "Pyrolysis"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 379,
+    "question": "Which solid waste management method recovers energy from waste?",
+    "options": {
+      "A": "Incineration",
+      "B": "Landfilling",
+      "C": "Composting",
+      "D": "Recycling"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 380,
+    "question": "Burning e-waste can release:",
+    "options": {
+      "A": "Oxygen",
+      "B": "Dioxins and furans",
+      "C": "Carbon dioxide only",
+      "D": "Chlorofluorocarbons"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 381,
+    "question": "What is one of the most hazardous materials found in e-waste?",
+    "options": {
+      "A": "Glass",
+      "B": "Aluminium",
+      "C": "Plastic",
+      "D": "Lead"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 382,
+    "question": "Which international standard is commonly used for OHASMS?",
+    "options": {
+      "A": "ISO 9001",
+      "B": "ISO 14001",
+      "C": "ISO 45001",
+      "D": "ISO 27001"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 383,
+    "question": "The primary aim of OHASMS is to:",
+    "options": {
+      "A": "Increase production speed",
+      "B": "Prevent workplace injuries and illnesses",
+      "C": "Improve product quality",
+      "D": "Manage environmental impact"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 384,
+    "question": "Which international event led to the celebration of World Environment Day?",
+    "options": {
+      "A": "Stockholm Conference",
+      "B": "Paris Agreement",
+      "C": "Kyoto Protocol",
+      "D": "Rio Earth Summit"
+    },
+    "correctAnswer": "A"
+  }
+]
